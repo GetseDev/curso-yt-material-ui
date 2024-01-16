@@ -1,6 +1,6 @@
 import {Button} from "@mui/material";
 
-export const App = () => {
+export const Buttons = () => {
   return (
     <div>
       <Button color="secondary">
